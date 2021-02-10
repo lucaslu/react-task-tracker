@@ -1,6 +1,7 @@
 # Task Tracker
 
-Task Tracker built using JavaScript, React, JSON.
+Task Tracker built using JavaScript, React, JSON. \
+You can see the site here: [https://lucaslu.github.io/react-task-tracker/](https://lucaslu.github.io/react-task-tracker/).
 
 ## Available Scripts
 
